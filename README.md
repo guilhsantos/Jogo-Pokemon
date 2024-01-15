@@ -1,1 +1,1 @@
-# Projeto base para o curso
+# Joguinho do pokemon, onde pude ter uma imersão e conhecimento maior da manipulação da DOM com o Javascript Puro
